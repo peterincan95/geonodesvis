@@ -35,7 +35,7 @@ with open(filepath, mode='r', encoding='utf-8-sig') as f:
                 value = float(row[key]) if row[key] else 0.0
                 attributes[key].append(float(value))
             except KeyError:
-                print(f'KeyError: Column '{key}' not found in CSV headers.')
+                print(f"KeyError: Column '{key}' not found in CSV headers.")
 
 # Append placeholder values for vertex position
 for row in data:
