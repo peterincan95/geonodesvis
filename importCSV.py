@@ -6,7 +6,7 @@ import mathutils
 
 # Set Parameters
 # Filepath to CSV
-filepath = "D:/Blender_D/Data/Ukraine.csv"
+filepath = "Replace_with_filepath_to_CSV"
 
 # Name of Blender Object
 obj_name = "CSV_to_Points"
