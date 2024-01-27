@@ -9,4 +9,4 @@ The dataset formatted for import into Blender, modified from the original datase
 * All unneeded fields are removed
 * The date field has been converted to a frame value
 ## Recipes.blend
-This blend file a series of node groups and materials that offer some interesting ways to experiment with geometry nodes. I'll be updating this with more resources over time. To add these to your own Blender project, first download the .blend file. Then, in your own project, click File > Append, and navigate to either the materials or groups folder to import them into your project. 
+This blend file a series of node groups and materials that offer some interesting ways to experiment with geometry nodes. I'll be updating this with more resources over time. To add these to your own Blender project, first download the .blend file. Then, in your own project, click File > Append, and navigate to either the materials or groups folder to import them into your project. Once a node group has been imported, you can add it to any node tree from the add menu. 
