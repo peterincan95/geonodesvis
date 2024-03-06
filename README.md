@@ -1,7 +1,9 @@
 # Mapping Geospatial Data with Geometry Nodes in Blender
-This repo contains the resources needed to follow along with the tutorial posted to my website [here](https://peteratwoodprojects.wordpress.com). This tutorial covers importing CSV data into Blender and using the Geometry Nodes tools to visualize and animate it. 
+This repo contains the resources needed to follow along with the series of tutorials posted to my website [here](https://peteratwoodprojects.wordpress.com). This tutorial covers importing CSV data into Blender and using the Geometry Nodes tools to visualize and animate it. 
 ## Tutorial.blend
-This is the .blend file containing the end result of the tutorial.
+This is the .blend file containing the end result of the first tutorial which covers importing spatial point data into Blender and plotting it with Geometry Nodes.
+## Tutorial_2.blend
+This is the .blend file containing the end result of the second tutorial, which covers plotting the point data onto a 3D globe.
 ## EarthquakeDataRaw.csv
 The initial dataset used in the tutorial. This contains the location, depth and magnitude of every earthquake with a magnitude greater than 4.5 since 2019 ([Source](https://earthquake.usgs.gov/earthquakes/map/?extent=1.66969,-134.29688&extent=62.95522,-55.63477)).
 ## EarthquakeDataClean.csv
